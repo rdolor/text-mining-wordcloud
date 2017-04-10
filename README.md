@@ -3,7 +3,7 @@ This is a project for a Text Mining course.
 
 The goal is to create a WordCloud visualization. We decided to show the evolution of most frequent words in the abstracts of some research papers in NTHU. To show the evolution, the WorCloud per Publication Year is provided. Also, to add more information, it is grouped by Department.
 
-Using the output of *Text Mining - WordCloud.ipynb*, the WordClouds by Department by Publication Year are prepared in Tabaleau.
+Using the output of *Text Mining - WordCloud.ipynb*, the WordClouds by Department and by Publication Year are prepared in Tabaleau.
 
 The WordClouds can be found in these links:
 
