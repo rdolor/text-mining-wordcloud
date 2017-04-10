@@ -9,15 +9,15 @@ Using the output of *Text Mining - WordCloud.ipynb*, the WordClouds by Departmen
 
 ## The WordClouds can be found in these links:
 
-	[Link to the WordCloud in Tableau Public](https://public.tableau.com/profile/rosalie.dolor#!/vizhome/TextMining-WordCloud/WordCloud)
+[Link to the WordCloud in Tableau Public](https://public.tableau.com/profile/rosalie.dolor#!/vizhome/TextMining-WordCloud/WordCloud)
 
-	[Link to the smaller version](https://public.tableau.com/profile/rosalie.dolor#!/vizhome/TextMining-WordCloud-Small/WordCloud)
+[Link to the smaller version](https://public.tableau.com/profile/rosalie.dolor#!/vizhome/TextMining-WordCloud-Small/WordCloud)
 
 
 
 ## The final output is:
 
-	[Link to the final WordCloud project output](http://u102034038.22web.org/prof_relation.html)
+[Link to the final WordCloud project output](http://u102034038.22web.org/prof_relation.html)
 
 
 
