@@ -8,6 +8,7 @@ Using the output of *Text Mining - WordCloud.ipynb*, the WordClouds by Departmen
 The WordClouds can be found in these links:
 
 [link to the WordCloud in Tableau Public](https://public.tableau.com/profile/rosalie.dolor#!/vizhome/TextMining-WordCloud/WordCloud)
-[link to the small version](https://public.tableau.com/profile/rosalie.dolor#!/vizhome/TextMining-WordCloud-Small/WordCloud)
+
+[link to the smaller version](https://public.tableau.com/profile/rosalie.dolor#!/vizhome/TextMining-WordCloud-Small/WordCloud)
 
 
