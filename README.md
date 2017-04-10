@@ -12,3 +12,12 @@ The WordClouds can be found in these links:
 [link to the smaller version](https://public.tableau.com/profile/rosalie.dolor#!/vizhome/TextMining-WordCloud-Small/WordCloud)
 
 
+This is in collaboration with [thtang](https://github.com/thtang/profNet).
+
+The final output is:
+
+[Link to the final WordCloud project output](http://u102034038.22web.org/prof_relation.html)
+
+
+
+
